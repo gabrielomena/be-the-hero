@@ -13,9 +13,21 @@ Nele, ONG's iram cadastrar projetos e as pessoas interessadas poderam doar um va
 - React Native / Expo - Mobile
 - SQLite - Banco de dados 
 
-## Releases
+## :computer: Pagina Web
 
-No final de cada dia criei um release com versão do código do dia e com as minhas anotações 
+<p align="center">
+  <img src="./imagens/web-home.png" alt="Pagina Home"/>
+  <img src="./imagens/web-incidents.png" alt="Pagina de Incidentes"/>
+  <img src="./imagens/web-new-incident.png" alt="Pagina Cadastro Incidentes"/>
+  <img src="./imagens/web-new-ong.png" alt="Pagina Cadastro ONG"/>
+</p>
+
+## :iphone: App Mobile
+
+<p align="center">
+  <img src="./imagens/mobile-incidents-01.png" alt="Pagina Incidentes 01"/>
+  <img src="./imagens/mobile-details.png" alt="Pagina Detalhes Incidentes"/>
+</p>
 
 ## Instalação 
 
