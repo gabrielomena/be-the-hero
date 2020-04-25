@@ -2,8 +2,10 @@
 # Semana OmniStack 11.0
 #### [RocketSeat.com.br](https://rocketseat.com.br/)
 
+## :bulb: Objetivo do projeto 
 
-O Be The Hero é o projeto da semana OmniStack 11.0 da Rocket Seat, com o objetivo de construir um aplicativo para o contato de ONG's com doadores.
+O projeto Be The Hero irá conectar ONG's que necessitam de ajuda com pessoas que queiram ajudar.
+Nele, ONG's iram cadastrar projetos e as pessoas interessadas poderam doar um valor qualquer para a causa.
 
 #### Tecnologias utilizadas
 - Node.js - Backend
