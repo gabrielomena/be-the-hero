@@ -51,6 +51,17 @@ Para executar esse repositório baixe-o para sua maquina ou de um `Git Clone`
 - `$ npm install` esse comando ira instalar todos os módulos necessários ao React Native
 -  `$ npm start` Ira iniciar o servidor  de desenvolvimento do Expo 
 
+## :tv: Redes Sociais
+ Abaixo algumas das minhas redes sociais:
+ 
+   <a href="https://github.com/gabrielomena" target="_blank" >
+    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a> 
+  
+  <a href="https://www.instagram.com/gabrielopfaria/" target="_blank" >
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram--%23F8952D?style=social&logo=instagram"></a> 
+  
+  <a href="https://www.facebook.com/gabrielomena" target="_blank" >
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook--%23F8952D?style=social&logo=facebook"></a> 
 
-
-
+  <a href="https://www.linkedin.com/in/gabriel-faria-ab538189/" target="_blank" >
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin"></a>
